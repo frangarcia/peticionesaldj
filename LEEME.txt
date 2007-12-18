@@ -1,0 +1,1 @@
+Esta aplicación ha sido diseñada para funcionar correctamente en un ordenador que haga de servidor web con PHP y MySql. El ordenador, también debe tener acceso a Internet para poder leer la información del correo.
