@@ -1,0 +1,125 @@
+body{
+	font-family: Verdana,Tahoma,Arial,sans-serif;
+	background-color: #DC143C;
+}
+
+#content{
+	margin-top: 15px;
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+}
+
+#options{
+	font-size: 16px;
+	font-weight: bold;
+	color: White;
+	margin-bottom:0px;
+}
+
+#options ul{
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 2px;
+	list-style: none;
+	margin:0;
+	height:20px;
+}
+
+#options li{
+	display: inline;
+	padding: 4px 10px 4px 10px;
+	border: 1px solid White;
+	background-color: #4682B4;
+	margin-left:4px;
+}
+
+#options li.selected{
+	background-color:  #EA4E6E;
+	border-bottom: 1px solid #EA4E6E;
+}
+
+#options li a:active, #options a:focus, #options a:link, #options a:visited {
+	color: White;
+	text-decoration: underline;
+}
+
+#options li a:hover{
+	color: White;
+	text-decoration: none;
+}
+
+#infocontent{
+	margin: 0;
+	padding: 10px;
+	border: 1px solid White;
+	background-color: #EA4E6E;
+	font-size: 13px;
+	color: #E7E7E7;
+	text-align: justify;
+}
+#infocontent b{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#infocontent a:active, #infocontent a:focus, #infocontent a:link, #infocontent a:visited {
+	color: #E7E7E7;
+	text-decoration: underline;
+}
+
+#infocontent a:hover{
+	color: #E7E7E7;
+	text-decoration: none;	
+}
+
+#infocontent input{
+	font-family: Verdana,Tahoma,Arial,sans-serif;
+	color: #DC143C;
+	margin-top:5px;
+	margin-right:20px;
+}
+
+
+#listsongs{
+	width: 750px;
+	border: 1px solid Black;
+	margin-right: auto;
+	margin-left: auto;	
+}
+#listsongs th{
+	background-color: #272727;
+	color: White;
+	font-weight: bold;
+	border: 1px solid Black;
+	margin:0;
+	padding: 4px;	
+}
+
+#listsongs tr{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-size: 10px;
+	margin:0;
+}
+
+#listsongs td{
+	border: 1px solid #313131;
+	margin:0;
+	padding: 4px;	
+}
+
+#listsongs tr:hover{
+	background-color: #FFB6C1;
+	color: #313131;
+}
+
+.deleted_song{
+	background-color: #373737;
+	color: White;
+}
+
+#footinfocontent{
+	font-size: 9px;
+	text-align: right;
+}
