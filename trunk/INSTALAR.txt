@@ -8,4 +8,4 @@ Pasos para la instalación de la aplicación Peticiones al DJ:
 
     Tanto el nombre de la base de datos como el del usuario con acceso a la misma, pueden ser modificados a través del fichero includes/database.php
 
-4.- Acceder a http://localhost/peticionesaldj/web
+4.- Acceder a http://localhost/peticionesaldj/web/
