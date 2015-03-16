@@ -1,0 +1,1 @@
+The clients of a disco or a pub, have now the possibility to make petitions to the DJ, just sending a sms with the info of the song, which they want.
